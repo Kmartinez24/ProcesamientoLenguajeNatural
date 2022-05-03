@@ -1,0 +1,38 @@
+Los diferentes conjuntos de datos tienden a exponer nuevos problemas y desafíos  
+y es interesante e instructivo tener en mente una variedad de problemas al considerar 
+los métodos de aprendizaje  De hecho  la necesidad de trabajar con diferentes conjuntos 
+de datos es tan importante que se ha reunido un corpus que contiene unos 100 problemas de 
+ejemplo para poder probar y comparar diferentes algoritmos con el mismo conjunto de problemas 
+
+Las aplicaciones serias de la minería de datos implican miles  cientos de miles o incluso millones 
+de casos individuales  de casos individuales  Pero al explicar lo que hacen los algoritmos y cómo funcionan 
+que capturen la esencia del problema  pero que sean lo suficientemente pequeños lo suficientemente pequeños 
+como para ser comprensibles en todos sus detalles 
+
+Nuestro problema con los conjuntos de datos de la vida real es que a menudo son de propiedad  
+Nadie va a compartir su base de datos de elección de clientes y productos con usted para que pueda 
+entender los detalles de su aplicación de minería de datos y cómo funciona  Los datos corporativos son un 
+activo valioso  cuyo valor ha aumentado enormemente con el desarrollo de técnicas de minería de datos como 
+las descritas en este libro  Sin embargo  lo que nos interesa aquí es entender cómo funcionan los métodos 
+utilizados para la minería de datos y comprender los detalles de estos métodos para poder seguir su funcionamiento en datos reales 
+
+He aquí una forma sencilla de encontrar reglas de clasificación muy simples a partir de un conjunto de instancias 
+Llamado 1R por 1-regla  genera un árbol de decisión de un nivel expresado en forma
+de un conjunto de reglas que ponen a prueba un atributo en particular  1R es un método sencillo y barato que a menudo da lugar 
+a reglas bastante buenas para caracterizar la estructura de los datos  Resulta que las reglas sencillas alcanzan con frecuencia 
+una precisión sorprendentemente alta  Tal vez sea porque la estructura subyacente a muchos conjuntos de datos del mundo real es 
+bastante rudimentaria  y un solo atributo es suficiente para determinar la clase de una instancia con bastante precisión  En cualquier caso  
+siempre es un buen plan probar primero las cosas más sencillas 
+
+La idea es la siguiente  hacemos reglas que comprueban un solo atributo y se ramifican en consecuencia  Cada rama corresponde a un valor 
+diferente del atributo  Es obvio cuál es la mejor clasificación que se puede dar a cada rama  
+utilizar la clase que aparece con más frecuencia en los datos de entrenamiento  De este modo  la tasa de error de las reglas puede 
+determinarse fácilmente  de error de las reglas  Basta con contar los errores que se producen en los datos de entrenamiento  es decir  
+el número de instancias que no tienen la clase mayoritaria  Cada atributo genera un conjunto diferente de reglas  una regla por cada valor 
+del atributo  Evalúe la tasa de error para el conjunto de reglas de cada atributo y elija la mejor  Es así de sencillo 
+
+El algoritmo 1R es principalmente usado en problemas en los cuales las reglas sean relativamente sencillas de seguir ya que la principal 
+característica es que es un algoritmo bastante simple el cual basa su clasificación en un árbol de decisiones y entre todas evalúa cual tiene 
+la tasa de error mas bajo para así elegirla como la mejor  aunque esta pueda no llegar al 100% de fiabilidad  Es un algoritmo de clasificación 
+porque crea reglas basadas en los conjuntos de datos actuales que ayuda a clasificar los datos futuros  
+

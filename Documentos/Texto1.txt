@@ -1,0 +1,17 @@
+Los diferentes conjuntos de datos tienden a exponer nuevos problemas y desafíos, 
+y es interesante e instructivo tener en mente una variedad de problemas al considerar 
+los métodos de aprendizaje. De hecho, la necesidad de trabajar con diferentes conjuntos 
+de datos es tan importante que se ha reunido un corpus que contiene unos 100 problemas de 
+ejemplo para poder probar y comparar diferentes algoritmos con el mismo conjunto de problemas.
+
+Las aplicaciones serias de la minería de datos implican miles, cientos de miles o incluso millones 
+de casos individuales. de casos individuales. Pero al explicar lo que hacen los algoritmos y cómo funcionan 
+que capturen la esencia del problema, pero que sean lo suficientemente pequeños lo suficientemente pequeños 
+como para ser comprensibles en todos sus detalles.
+
+Nuestro problema con los conjuntos de datos de la vida real es que a menudo son de propiedad. 
+Nadie va a compartir su base de datos de elección de clientes y productos con usted para que pueda 
+entender los detalles de su aplicación de minería de datos y cómo funciona. Los datos corporativos son un 
+activo valioso, cuyo valor ha aumentado enormemente con el desarrollo de técnicas de minería de datos como 
+las descritas en este libro. Sin embargo, lo que nos interesa aquí es entender cómo funcionan los métodos 
+utilizados para la minería de datos y comprender los detalles de estos métodos para poder seguir su funcionamiento en datos reales.

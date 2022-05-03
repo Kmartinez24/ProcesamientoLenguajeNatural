@@ -1,0 +1,292 @@
+ETH Datos de Precio en vivo
+Ethereum precio de hoy es el $3,229.39 USD con un volumen de comercio de 24 horas de $22,873,665,724 USD. Actualizamos nuestro precio de ETH a USD en tiempo real. Ethereum bajó 3.90% en las últimas 24 horas. La clasificación actual de CoinMarketCap es #2, con una capitalización de mercado de $388,420,804,133 USD. Tiene un suministro circulante de 120,276,835 ETH monedas y el suministro máximo no está disponible.
+
+Los cambios principales para comercializar en Ethereum son actualmente Binance, OKX, Bybit, CoinTiger, y . Puedes encontrar otros listados en nuestra .
+
+¿Qué es Ethereum (ETH)?
+Ethereum es un sistema blockchain de código abierto descentralizado que incluye su propia criptomoneda, Ether. ETH funciona como plataforma para otras numerosas criptomonedas, así como para la ejecución de contratos inteligentes descentralizados.
+
+Ethereum fue descrito por primera vez en un whitepaper de 2013 por Vitalik Buterin. Buterin, junto con otros cofundadores, aseguraron la financiación para el proyecto en una venta pública en línea en el verano de 2014 y lanzaron oficialmente la cadena de bloques el 30 de julio de 2015.
+
+El objetivo de Ethereum es convertirse en una plataforma global para aplicaciones descentralizadas, lo que permite a los usuarios de todo el mundo escribir y ejecutar software resistente a la censura, el tiempo de inactividad y el fraude.
+
+¿Quiénes son los fundadores de Ethereum?
+Ethereum tiene un total de ocho cofundadores, un número inusualmente grande para un proyecto de criptomonedas. Se conocieron por primera vez el 7 de junio de 2014, en Zug, Suiza.
+
+El ruso canadiense Vitalik Buterin es quizás el más conocido del grupo. Creó el documento técnico original que describió por primera vez Ethereum en 2013 y todavía trabaja en la mejora de la plataforma hasta la actualidad. Antes de ETH, Buterin fue fundador y escribió para el sitio web de noticias de Bitcoin Magazine.
+El programador británico Gavin Wood es posiblemente el segundo cofundador más importante de ETH, ya que codificó la primera implementación técnica de Ethereum en el lenguaje de programación C++, propuso el lenguaje de programación nativo de Ethereum, Solidity, y fue el primer jefe de tecnología de la Fundación Ethereum. Antes de Ethereum, Wood era científico investigador en Microsoft. Posteriormente, estableció la Fundación Web3.
+Los otros cofundadores de Ethereum son: - Anthony Di Iorio, quien escribió el proyecto durante su etapa inicial de desarrollo. - Charles Hoskinson, que desempeñó un rol principal en el establecimiento de la Fundación Ethereum con sede en Suiza y su marco legal. - Mihai Alisie, quien prestó asistencia en el establecimiento de la Fundación Ethereum. - Joseph Lubin, un empresario canadiense, que, como Di Iorio, ayudó a financiar Ethereum durante sus primeros días, y más tarde fundó una incubadora de empresas de nueva creación basada en ETH llamada ConsenSys. - Amir Chetrit, que ayudó a fundar Ethereum, pero se alejó del proyecto al principio del desarrollo.
+
+¿Qué hace que Ethereum sea único?
+Ethereum ha sido pionero en el concepto de una plataforma blockchain de contratos inteligentes. Los contratos inteligentes son programas informáticos que ejecutan automáticamente las acciones necesarias para cumplir un acuerdo entre varias partes a través de Internet. Se diseñaron para reducir la necesidad de intermediarios de confianza entre los contratistas, reduciendo así los costos de transacción y aumentando también la fiabilidad de las transacciones.
+
+La principal innovación de Ethereum fue el diseño de una plataforma que le permitió ejecutar contratos inteligentes utilizando blockchain, lo que refuerza aún más los beneficios ya existentes de la tecnología de contratos inteligentes. La blockchain de Ethereum fue diseñada, según el cofundador Gavin Wood, como una especie de “computadora para todo el planeta", teóricamente capaz de hacer que cualquier programa sea más robusto, resistente a la censura y menos propenso al fraude al ejecutarlo en una red distribuida globalmente de nodos públicos".
+
+Además de los contratos inteligentes, la blockchain de Ethereum es capaz de albergar otras criptomonedas, llamadas "tokens", mediante el uso de su estándar de compatibilidad ERC-20. De hecho, este ha sido el uso más común para la plataforma de ETH hasta ahora: a la fecha, se han lanzado más de 280,000 tokens compatibles con ERC. Más de 40 de estos conforman las principales 100 criptomonedas por capitalización de mercado, por ejemplo, USDT, LINK y BNB.
+
+B: Páginas relacionadas:
+
+¿Eres nuevo en el ecosistema cripto? Conoce cómo comprar Bitcoin hoy.
+
+¿Listo para aprender más? Visita nuestro centro de aprendizaje.
+
+¿Deseas buscar una transacción? Visita nuestro explorador de bloques.
+
+¿Quieres saber más del universo cripto? ¡Lee nuestro blog!
+
+¿Cuántas monedas de Ethereum (ETH) hay en circulación?
+En agosto de 2020, había alrededor de 112 millones de monedas de ETH en circulación, 72 millones de las cuales fueron emitidas en el bloque génesis —el primer bloque de la blockchain de Ethereum—. De estos 72 millones, 60 millones fueron asignados a los colaboradores iniciales a la venta de 2014 personas que financiaron el proyecto, y 12 millones fueron entregados al fondo de desarrollo.
+
+El monto restante se ha emitido en forma de recompensas de bloque a los mineros de la red de Ethereum. La recompensa original en 2015 fue de 5 ETH por bloque, luego bajó a 3 ETH a finales de 2017 y luego a 2 ETH a principios de 2019. El tiempo promedio que toma minar un bloque de Ethereum es alrededor de 13-15 segundos.
+
+Una de las principales diferencias entre la economía de Bitcoin y Ethereum es que este último no es deflacionario, es decir, su oferta total no es limitada. Los desarrolladores de Ethereum justifican esto al no querer tener un "presupuesto fijo de seguridad" para la red. Poder ajustar la tasa de emisión de ETH a través de consenso permite a la red mantener la emisión mínima necesaria para una seguridad adecuada.
+
+¿Cómo se asegura la red Ethereum?
+Para agosto de 2020, Ethereum está asegurado mediante el algoritmo de proof-of-work Ethash, perteneciente a la familia de funciones de hash Keccak.
+
+Sin embargo, hay planes para hacer la transición de la red a un algoritmo de proof-of-stake vinculado a la actualización principal de Ethereum 2,0, programada para iniciarse a finales de 2020 o a principios de 2021.
+
+¿Dónde se puede comprar Ethereum (ETH)?
+Dado el hecho de que Ethereum es la segunda criptomoneda más grande después de Bitcoin, los pares comerciales de ETH se listan en casi todos los principales exchanges de criptomonedas. Algunos de los mercados más grandes incluyen:
+
+Binance
+Coinbase Pro
+OKEx
+Kraken
+Huobi Global
+Conociendo más de Ethereum 2.0
+Ethereum 2.0, también conocido como Serenity, es la tan esperada actualización de la blockchain de Ethereum.
+
+Es algo con mucha relevancia. Dado que esta red alberga la segunda criptomoneda más grande del mundo por capitalización de mercado, la transición debe realizarse fluidamente. Hay miles de millones de dólares en juego (¡literalmente!)
+
+Consulta nuestras preguntas frecuentes para descubrir los pros y los contras de esta renovada red de Ethereum, cómo luce la hoja de ruta y qué significa para las aplicaciones descentralizadas.
+
+¿Qué es Ethereum 2.0?
+En pocas palabras, Ethereum 2.0 hará que la blockchain pase de un mecanismo de consenso de proof-of-work (también utilizado por Bitcoin) a proof-of-stake. Esta será una marcada desviación de un protocolo de marcada eficacia que se ha utilizado durante cinco años.
+
+Esto no dará como resultado la creación de una criptomoneda totalmente nueva; tus ETH serán exactamente iguales. Pero, la mayoría de los cambios se producirán en el backend, mejoras técnicas que probablemente ni siquiera notarás.
+
+La red de blockchain de ETH 2,0 ha estado en proceso desde 2015, y no se implementará de la noche a la mañana. Uno de los principales objetivos es aumentar la capacidad, lo que significa que las transacciones se pueden ejecutar más rápido. El auge de las DApps de código abierto, sin mencionar el sector de finanzas descentralizadas, ha abrumado esta red de blockchain.
+
+Por ejemplo, solo mira lo que ocurrió cuando CryptoKitties se lanzó en los agitados días de 2017, cuando Ether y Bitcoin se dirigían a picos históricos. La demanda de estos gatos coleccionables alcanzó tal punto máximo que había decenas de transacciones atascadas esperando ser procesadas.
+
+La mainnet, a prueba de futuro, garantizará que su escalabilidad podría resultar crucial para su supervivencia. Sin esta, los entusiastas de las criptomonedas podrían terminar llevando su negocio a otro lugar.
+
+¿En qué se diferencia Ethereum 2.0 de Ethereum 1.0?
+La empresa tecnológica de blockchain ConsenSys tiene una manera impecable de describir cómo ETH 2,0 es diferente a su predecesor ETH 1,0.
+
+Imagina que Ethereum 1.0 es una carretera muy transitada con un solo carril en cada dirección, lo que significa que todos los autos tienen que avanzar lentamente cuando hay congestión.
+
+Ethereum 2.0 introducirá el sharding (más sobre esto en nuestra próxima pregunta) que tiene el efecto de convertir la cadena de bloques en una autopista con docenas de carriles. Todo esto aumentará la cantidad de transacciones que se pueden manejar al mismo tiempo.
+
+El cambio de protocolo de PoW a PoS será extremadamente significativo, no menos importante en términos de eficiencia energética. El protocolo proof-of-work utiliza una cantidad asombrosa de energía, tanto que una sola transacción en la cadena de bloques de Bitcoin tiene una huella de carbono equivalente a 667,551 transacciones VISA. Un pago en Ethereum 1.0 termina usando más electricidad que la que consume un hogar estadounidense típico en todo un día.
+
+Las estimaciones del Instituto de Ingenieros Eléctricos y Electrónicos (IIEE, para abreviar) sugieren que la mejora de ETH 2.0 reducirá el consumo de energía en un sorprendente 99%. Esto significa que, así como contribuir a la búsqueda de la libertad financiera, blockchain no será desastrosa para el medio ambiente.
+
+¿Qué son las shard chains?
+Sharding es la tecnología que hará que Ethereum 2,0 sea escalable. Efectivamente implica dividir la mainnet de la blockchain en varias shard chains diminutas que se ejecutan una junto a la otra. En lugar de que las transacciones se ejecuten en un orden consecutivo, se gestionarán simultáneamente, y claramente, este es un uso mucho más inteligente de la potencia informática.
+
+Tal como lo explicó el equipo de ConsenSys: "cada shard chain es como agregar otro carril para actualizar Ethereum de un camino de un solo carril a una carretera de varios carriles. Más carriles y procesamiento en paralelo conducen a un rendimiento mucho mayor".
+
+Ahora, puede que estés pensando "¡Esto es genial! ¿Por qué no se hizo esto desde el principio?" — la respuesta, para ser sinceros, es que la vida no es tan simple.
+
+Una de las mayores desventajas del sharding es cómo puede comprometer la seguridad si se hace pobremente. Debido a que a menos validadores se les asignará la tarea de mantener segura cada una de estas mini shard chains, existe el riesgo de que puedan ser vulneradas por actores malintencionados. Todo se remonta a ese trilema clásico que ha desconcertado a los entusiastas de las criptomonedas durante años: escalabilidad, descentralización y seguridad; puedes elegir dos.
+
+¿Cómo funciona el staking?
+Un cambio significativo en la blockchain de Ethereum 2.0 será la migración a el staking. Esto implicará un replanteamiento completo sobre cómo se confirman los nuevos bloques.
+
+El sistema PoS, conocido como Casper, involucra validadores que respaldan su compromiso con dinero. Para tener el privilegio de agregar nuevos bloques a la blockchain y recibir una recompensa, deben desembolsar 32 ETH que se bloquearán. Podrías comparar esto con una póliza de seguro, al igual que perderías tu depósito de seguridad si destruyeras una habitación de hotel, los validadores corren el riesgo de perder su ETH si no actúan en función de los intereses de la red de blockchain.
+
+Como imaginarías, esto es muy diferente de la forma en que funciona Ethereum en este momento. Los nuevos bloques son minados por aquellos que tienen la mayor potencia informática, tecnología que está lejos del alcance del consumidor diario. Con el consenso de proof-of-stake, los bloques generalmente se delegan de manera proporcional, en función de la cantidad de criptomonedas que alguien haya bloqueado. Entonces: una persona que haya hecho stake del 5% del total terminará validando el 5% de los nuevos bloques y recibiendo la recompensa. Con Ethereum 2,0, los validadores serán elegidos al azar.
+
+Hablemos de dinero. ¿Qué tan grandes serán las recompensas? Bueno, esto dependerá de cuántos validadores haya, y disminuirá con el tiempo. La hoja de ruta de Ethereum sugiere que la ganancia máxima sería del 18,1% después de los 32 ETH, o tan solo del 1,56%.
+
+Suponiendo, como ejemplo, que 1 ETH valía USD 300, esto requeriría una inversión total de USD 9,600 para convertirse en validador. Eso implica un gran cambio. Debido a esto, los pools de staking han surgido donde los entusiastas de las criptomonedas podrán reunir a su Ether y dividir los ingresos.
+
+¿Será el proof-of-stake el fin de la minería de Ethereum?
+En pocas palabras... sí. Los pools de minería de Ethereum estarán de brazos cruzados y buscando algo que hacer una vez que ETH 2.0 esté completamente lanzado. Es posible que tengan que cambiar su enfoque a las altcoins, o comenzar una nueva carrera como stakers.
+
+Dicho esto, aún no necesitan empezar a empacar sus equipos mineros — el proof-of-stake seguirá estando vigente durante un tiempo mientras la testnet se pone en marcha, y cada fase entra en vigor.
+
+Hubo temores de que pudiéramos acabar viendo una lucha masiva de la comunidad minera, y algunos incluso podrían impedir que se implemente el consenso de PoS para proteger sus copiosas ganancias. Es poco probable que esto suceda, pero existe el riesgo de que pueda haber una bifurcación dura, un proceso dramático en el que una criptomoneda se divide en dos.
+
+Hay un precedente para esto. En 2016, la red original de Ethereum sufrió una bifurcación dura tras el hackeo de MakerDAO. La blockchain original donde el hacker guardaba el dinero fue rebautizada como Ethereum Classic (que seguirá funcionando con proof-of-work), mientras que la plataforma más nueva, donde se devolvió el dinero, retuvo el nombre de Ethereum.
+
+¿Cuáles son los pros y los contras de Ethereum con PoS?
+Como hemos mencionado, una mayor eficiencia energética es una de las mayores ventajas asociadas con el staking. Pero esto es sólo el comienzo. Éstos son algunos de los otros beneficios:
+
+Barreras de entrada más bajas. Convertirse en validador en una cadena de bloques de proof-of-work a menudo es prohibitivamente costoso por los equipos de minería de alta tecnología que se necesitan. Con el consenso de PoS, el objetivo establecido por Ethereum es "permitir que una computadora portátil de consumo típica procese y valide shards".
+Un terreno de juego más justo. Debido al gran costo de los equipos mineros, y al consumo de electricidad requerido en un mecanismo de consenso de PoW, la responsabilidad de crear nuevos bloques a menudo recae sobre un pequeño puñado de mineros que tienen el flujo de caja para hacer que las cosas sucedan.
+Los ataques de red son más costosos. Los validadores tienen un interés financiero en asegurarse de que la blockchain sea segura. Para que un actor malintencionado tenga éxito en atacar la red de Ether, tendrá que hacer stake de un depósito de seguridad: dinero que eventualmente perderá.
+Sin embargo, como cabría esperar, existen desventajas para el consenso de proof-of-stake. Entre ellas están:
+
+Los grandes stakers podrían terminar teniendo una influencia descomunal. Eliminar la minería no significa que te deshagas de un desequilibrio de poder. Alguien con bolsillos profundos podría terminar haciendo stake de 32,000 ETH y, por lo tanto, terminar validando 1,000 veces más bloques que todos los demás.
+No ha sido probado a esta escala. Ethereum va a ser la criptomoneda más grande que jamás haya migrado a proof-of-stake. Las complicaciones y las vulnerabilidades inesperadas podrían ser desastrosas para el proyecto.
+¿Cuáles son las fases principales de ETH 2.0?
+Como podrás haberlo imaginado, la Fundación Ethereum quiere trabajar muy rápidamente con la próxima mejora. Debido a esto, el proceso de cambio a ETH 2.0 es quizás mejor en comparación con seguir viviendo en una casa mientras se está renovando.
+
+En pocas palabras, hay tres fases principales: Fase 0, Fase 1 y Fase 2. La blockchain de Ethereum 1.0 existente seguirá funcionando en cada etapa.
+
+Esto es lo que implica cada paso:
+
+La fase 0 presagiará el lanzamiento de Beacon Chain, que será responsable de administrar los validadores e implementar el mecanismo de consenso de PoS, así como de repartir sanciones y recompensas. Esta estaba programada para enero de 2020.
+La Fase 1 añade el sharding a la ecuación, dividiendo la red Ethereum en 64 cadenas diferentes. Aunque es lógico pensar que esto multiplicaría la capacidad por 64, en realidad podría significar que ETH 2,0 podrá manejar cientos de veces más transacciones por segundo que su predecesor. Esta parte de la hoja de ruta se proyectó para 2021.
+La fase 2 marcará la llegada de transferencias y retiros de ETH, junto con la funcionalidad de contratos inteligentes, lo que eventualmente conducirá a que la blockchain de Ethereum 1,0 se desactive definitivamente. Se espera que esto esté en marcha para el año 2022, pero ¿has visto alguna vez que un proyecto tan grande cumpla con su cronograma proyectado?
+Como explica este artículo de Medium.com de Jeffrey Hancock: "Desafortunadamente, todo lo que hay detrás de la Fase 2 está en un estado excepcional de predicción y no hay información confiable sobre estas fases".
+
+Cientos de desarrolladores están involucrados en este proyecto, que está siendo orquestado por la Fundación Ethereum. Todos los detalles técnicos complicados se registran en una página dedicada de Github.
+
+¿Por qué se ha retrasado Ethereum 2.0?
+Ahora puede que estés pensando "¡enero de 2020! ¡Ethereum 2.0 ya debería haber sido lanzada! ¡¿Cómo pude perderme esto?!"
+
+Bueno, no te preocupes, las noticias no te fueron esquivas... la verdad del asunto es que el desarrollo de esta nueva blockchain se está ejecutando seriamente detrás del cronograma.
+
+Después de que se incumpliera la fecha límite original, se esperaba que ETH 2.0 se lanzara en julio, coincidiendo con el quinto aniversario de la blockchain. Los corchos de champán volarían, y los retrasos desagradables se olvidarían. Lo sentimos, esto tampoco sucedió.
+
+El problema es que Beacon Chain solo se puede lanzar en tanto una red de prueba pública y un programa de recompensas por errores se hayan estado ejecutando durante varios meses, y Justin Drake, miembro de la Fundación Ethereum, expresó su escepticismo respecto a que esto se pueda lograr en el tercer trimestre de 2020. Él piensa que el debut de la Fase 0 solo puede lograrse en enero de 2021 — un año completo detrás del cronograma.
+
+A raíz de los comentarios de Drake a mediados de julio, uno de los fundadores de Ethereum, Vitalik Buterin, hizo todo lo posible para restar importancia a este pesimismo. Señaló que la red de pruebas de Altona se lanzó en julio y sugirió que la fase 0 podría iniciarse en noviembre. En respuesta a Drake en Reddit, Buterin dijo: "Personalmente, no estoy de acuerdo con esto y auguro el lanzamiento de la fase 0 antes de [2021], independientemente del nivel de preparación".
+
+Esa es una declaración audaz, intrépida y de alto riesgo. Lanzarse antes de que esté completamente lista podría resultar en una disrupción importante para aquellos que dependen de la blockchain de ETH, un perjuicio al precio y el descubrimiento desagradables vulnerabilidades de seguridad.
+
+A mediados de agosto, Buterin parecía estar retractándose de esto... quizá de todo el camino de vuelta al inicio de las fases. Entrevistado en un podcast, dijo: "Definitivamente admito libremente que Ethereum 2,0 es mucho más difícil de implementar de lo que esperábamos, desde una perspectiva técnica. Definitivamente no creo que hayamos descubierto ningún fallo fundamental que lo haga imposible, y creo que se terminará. Es solo una cuestión de tiempo, y en realidad se está progresando bastante rápido últimamente".
+
+¿Qué va a pasar con la blockchain de ETH 1.0?
+Cuando Ethereum 2.0 finalmente se lance , se ejecutará en conjunto con Ethereum 1.0 durante al menos un par de años.
+
+Una vez que ETH 2.0 esté completamente construido y funcional, ConsenSys dice: "El plan actual es que la cadena Ethereum 1.0 se convierta efectivamente en el primer shard en Ethereum 2.0 cuando se lance la Fase 1".
+
+De hecho, existen algunas analogías bastante elegantes que describen cómo va a funcionar la transición.
+
+Un empleado de ConsenSys, Jimmy Ragosa, trató de explicarlo simplemente comparando Ethereum 1.0 con un autobús y Ethereum 2.0 con un tren.
+
+Ragosa pinta un cuadro en el que se está construyendo el tren mientras el autobús está en camino, y los pasajeros del autobús podrán continuar su viaje en el tren tan pronto como la Beacon Chain salga. "Al final, todo el autobús se carga en el tren", escribió.
+
+¿Qué sucede con el ETH que poseo ahora?
+Si actualmente posees Ether, es posible que estés realmente preocupado de que tu ETH no valga nada tan pronto como la nueva blockchain cobre vida.
+
+Esto es lo que es importante recordar: no será la criptomoneda la que será diferente cuando se lance ETH 2.0, será el cambio de la tecnología blockchain que la sustenta. No habrá ningún token nuevo que debas comprar, ni tendrás que realizar conversiones complicadas de un activo digital a otro.
+
+Pero si tienes una cantidad decente de ETH, una cosa que puedes considerar es hacer un buen uso de tus criptomonedas a través del staking. Sin embargo, una advertencia, es posible que no debas hacerlo de inmediato. Los validadores que se unan a la fase de Beacon Chain no podrán retirar el Ether que pusieron en stake hasta la Fase 2 de la actualización, que podría tardar dos o tres años.
+
+Una vez más, es importante enfatizar que no podrás comprar tokens ETH 2.0 una vez que se complete la actualización. Será el mismo Ether que conoces y amas, en la misma billetera Ethereum que siempre has usado.
+
+¿Cómo afectará ETH 2.0 al sector DeFi?
+Ethereum 2.0 podría hacer que las finanzas descentralizadas sean mucho más prácticas, tanto en términos de velocidad como de tarifas de transacción.
+
+En la actualidad, ETH 1.0 solo puede administrar alrededor de 25 transacciones por segundo (TPS). Eso es apenas suficiente para un único protocolo DeFi, sin olvidar toda una red de blockchain.
+
+Vitalik Buterin ha sugerido anteriormente que la capacidad de ETH 2.0 podría saltar rápidamente hasta 100,000 TPS una vez que cada fase se haya implementado correctamente.
+
+Pero Kyle Samani, el fundador de Multicoin Capital, cree que incluso esto puede no ser suficiente si las finanzas descentralizadas logran volverse más populares.
+
+Advirtiendo sobre los desafíos que se avecinan durante una discusión de Twitter en mayo, escribió: "¿Puedes explicarme cómo puedes soportar el sistema financiero global con 25 TPS? ¿O incluso 2,500 TPS? ¿O incluso 25,000? Estoy bastante seguro de que necesitas al menos 1,000,000 de TPS para que las criptomonedas funcionen a escala global".
+
+¡ Un millón de transacciones por segundo! Todo esto podría sugerir que, incluso cuando se lance la nueva red blockchain de ETH 2.0, será necesario realizar una ronda completa de mejoras adicionales para que la plataforma pueda mantenerse al día con las demandas de los usuarios.
+
+¿Esta nueva tecnología blockchain afectará las DApps de Ethereum?
+Una preocupación en torno a ETH 2.0 es el impacto que esta actualización podría tener en las DApps existentes. ¿Vamos a terminar con un escenario como Apple, donde los iPhones más nuevos ya no admiten aplicaciones que fueron diseñadas para dispositivos más antiguos?
+
+En última instancia, no existe necesariamente el riesgo de que las DApps ya no sean compatibles con esta blockchain. Un peligro mayor es que los problemas en el camino a medida que se despliega la red podrían causar disrupciones en el negocio que ralentizarían la actividad.
+
+Si el lanzamiento de Ethereum 2.0 se realiza correctamente, podría desencadenar una nueva ola de innovación en la blockchain mientras que los desarrolladores, previamente descontentos con las altas tarifas de transacción y los lentos tiempos de confirmación, comenzarán a regresar desde plataformas más pequeñas.
+
+Según el informe de mercado de Dapp.com para el 2T de 2020 , actualmente hay 1,394 aplicaciones descentralizadas activas. De estas, 575 — aproximadamente el 41% del total, se ejecuta en Ethereum. En los emocionantes días de 2017, esta blockchain era una de las pocas opciones para los desarrolladores que querían crear sus propias aplicaciones, pero en estos días, tienen muchas opciones para elegir.
+
+Con el tiempo, podríamos empezar a ver a Ethereum retomar parte de la cuota de mercado que ha perdido a lo largo de los años. El informe de Dapps muestra que Ethereum logró duplicar el número de usuarios activos de aplicaciones descentralizadas en el segundo trimestre, alcanzando un pico histórico de 1.25 millones. Esto fue impulsado en gran medida por la demanda de aplicaciones DeFi.
+
+¿Qué piensa Vitalik Buterin sobre Ethereum 2.0?
+Como hemos visto, Buterin está decidido a lanzar esta blockchain, y parece que tampoco se dormirá en sus laureles una vez que ETH 2.0 se haga realidad. En marzo de 2020, publicó una hoja de ruta detallada de Ethereum de "cómo se verían los próximos cinco a 10 años de ETH 2.0 y más allá".
+
+También ha sido un acérrimo defensor contra las afirmaciones de que el diseño de Ethereum 2.0 sigue siendo inferior a la forma en que Bitcoin se construyó en 2009. Buterin insiste en que el sharding, junto con la tecnología de vanguardia conocida como pruebas de conocimiento cero, harán que la red blockchain sea mucho más barata de usar que BTC.
+
+El programador continuó presentando el consenso de PoS, así como la verificación sin estado y los tiempos de bloqueo de 12 segundos, como otros puntos de venta únicos para la red completamente madura.
+
+Pero a pesar de todos estos beneficios, todo se remonta al único problema que los desarrolladores de Ethereum están desesperados por resolver. "ETH 2.0 tiene que ver con la escala", escribió.
+
+¿Cuáles son las principales desventajas de ETH 2.0?
+Buterin ha admitido que una de las principales desventajas del cambio a proof-of-stake es el hecho de que es "definitivamente más complicado técnicamente porque tienes que lidiar con validadores".
+
+Todo esto apunta a un problema más amplio, uno que es crucial para agrietar la adopción convencional una y otra vez. Las blockchains y las criptomonedas son cosas increíblemente complicadas. A veces, incluso alguien con un Doctorado en Ciencias de la Computación tendrá que tomarse un momento para asegurarse de que está comprendiendo correctamente el documento técnico de una empresa de criptomonedas emergente.
+
+Hacer que la plataforma sea más técnica alienando a los consumidores cotidianos que, de otro modo, podrían haber considerado dar sus primeros pasos tentativos en el mercado de criptomonedas.
+
+DeFi, la industria que también está impulsando esta nueva y frenética demanda de la red de blockchain, a menudo también carece de simplicidad y usabilidad, especialmente para las personas que no han estado expuestas a activos digitales antes.
+
+A mediados de agosto, incluso Buterin tuiteó: "Recordatorio: NO tienes que participar en 'lo último en moda de DeFi' para estar en Ethereum. De hecho, a menos que realmente comprendas lo que está sucediendo, lo mejor es sentarse o participar solo con cantidades muy pequeñas. Hay muchos otros tipos de dapps en ETH, ¡explórelas! "
+
+Como mencionamos anteriormente, una de las grandes desventajas de Ethereum 2.0 es cómo está dando un salto masivo hacia lo desconocido, ya que no hay otras plataformas de blockchain que planeen usar PoS a una escala tan masiva. Aunque las auditorías de su marco y código base han sido en gran medida optimistas hasta ahora (a pesar de algunas vulnerabilidades de seguridad que se identificaron en marzo), Ethereum podría tener un desastre de relaciones públicas en sus manos si los inconvenientes llegan a la mainnet.
+
+¿La nueva blockchain aumentará los precios de Ether?
+La pregunta en la boca de muchos traders es qué efecto tendrá ETH 2.0 en el valor de Ether una vez que se haya lanzado por completo.
+
+Por supuesto, es poco útil tener una bola de cristal cuando se trata de los mercados de criptomonedas, ya que las cosas pueden cambiar drásticamente en el espacio de unas pocas horas. (Solo mira lo que ocurrió durante el flash crash de las criptomonedas en marzo de 2020, cuando ETH cayó en picado, liquidando repentinamente las posiciones en los protocolos DeFi).
+
+Un reciente informe de CoinDesk, publicado para coincidir con el cumplimiento de cinco años de Ethereum, analizó cómo podría reaccionar ETH si la actualización se realiza sin problemas... y si no es así.
+
+Los autores escribieron: "El lanzamiento y desarrollo exitosos de Ethereum 2.0 a través de sus dos fases iniciales podría impulsar en gran medida la propuesta de valor de Ethereum a los ojos de los inversores. El lanzamiento de Ethereum 2.0 sería una evidencia concreta de un sistema alternativo de validación de transacciones que es más eficiente desde el punto de vista energético".
+
+Suena prometedor. Pero de la misma manera, el informe advirtió que los traders e inversores necesitan estar atentos a las fases 0 y 1 de este ambicioso proyecto. Si hay poca evidencia concreta de una red de blockchain PoS que funcione, predice que el valor de ETH podría comenzar a disminuir.
+
+El último factor a tener en cuenta, que se ejecuta en paralelo al desarrollo de esta nueva blockchain, es si DeFi representa el futuro o si la industria es una burbuja que va a estallar.
+
+Ethereum ha estado en el centro de las locuras cripto anteriormente. Cuando las ICO estaban en auge, con nuevos proyectos apareciendo a diestra y siniestra en 2017, muchas start-ups se basaban en esta blockchain y lanzaban tokens ERC-20. (Aquellos con una larga memoria recordarán que un número considerable de estas empresas nunca terminaron lanzándose, y mucho menos obteniendo ganancias).
+
+En última instancia, el futuro de Ethereum depende en gran medida de lo que suceda en los próximos años. Con algunos en la comunidad cripto comenzando a perder la confianza en blockchain debido a los repetidos retrasos en el lanzamiento de la Fase 0, con DeFi llevando la red de blockchain a sus límites, no es de extrañar que la Fundación Ethereum esté comenzando a experimentar los problemas.
+
+¿Qué son los tokens ERC-20?
+Creado por Fabian Vogelsteller en 2015, el token ERC-20 es el estándar técnico utilizado para todos los contratos inteligentes en la blockchain de Ethereum para la implementación del token.
+
+Ethereum tiene la segunda capitalización de mercado más grande respecto a Bitcoin, pero se usa de una manera diferente: la blockchain de Ethereum se basa en el uso de tokens, que se pueden comprar, vender o comerciar.
+
+En la red de Ethereum, los tokens representan una variedad diversa de activos digitales, como vales, IOU (deuda adeudada) o incluso objetos tangibles del mundo real. Esencialmente, los tokens de Ethereum son contratos inteligentes que funcionan en la blockchain de Ethereum.
+
+El estándar ERC-20 describe seis funciones diferentes para el beneficio de otros tokens dentro de la red de Ethereum. Estas funciones incluyen el método en el que se transfieren los tokens y la forma en que los usuarios acceden a los datos de un token en particular. En última instancia, esto garantiza que todos los tokens funcionen en cualquier lugar dentro de la red de Ethereum.
+
+ERC-20 significa "solicitud de comentarios de Ethereum" y es parte de una colección de varios otros estándares de Ethereum, como ERC-721, que se centra en tokens no fungibles (NFT) y ERC-884, que permite a las empresas utilizar blockchain para mantener registros de acciones (específicamente en Delaware, pero esa es otra historia).
+
+¿Cómo funciona un token ERC-20?
+Los tokens ERC-20 son activos basados en blockchain que tienen valor y funcionan al ser enviados y recibidos en la cadena de bloques.
+
+La diferencia entre un token ERC-20 y Bitcoin, por ejemplo, es que en lugar de ejecutarse en su propia blockchain, los tokens ERC-20 se emiten en la red Ethereum.
+
+Otra diferencia entre el token ERC-20 y Bitcoin es la necesidad de que los tokens escriban un fragmento de código para ser almacenados en la blockchain de Ethereum.
+
+La blockchain de Ethereum es responsable de manejar las transacciones y realizar un seguimiento del saldo de los tenedores de tokens; este procedimiento no es necesario para otras monedas digitales.
+
+Los tokens ERC-20 se envían utilizando "gas" de Ethereum. El gas se refiere a la tarifa, o valor de precio, requerido para realizar con éxito una transacción o ejecutar un contrato en la plataforma blockchain de Ethereum.
+
+El Ether (ETH) se utiliza para alimentar transacciones en la red de Ethereum. El Ether también ayuda a financiar los costos de minería y sin este, no sería posible enviar tokens a través de la red.
+
+ETH en sí no es un token ERC-20; en su lugar, existe una versión de ETH llamada "Wrapped Ethereum", (WETH) que es una versión compatible con ERC-20 de ETH. Esto significa que algunas aplicaciones descentralizadas (DApps) prefieren WETH en lugar de ETH por razones técnicas como el trading.
+
+Los tokens ERC-20 proporcionan los estándares generales al proporcionar reglas que deben cumplir todos los tokens de Ethereum. Ethereum opera en una red financiera descentralizada, y aunque no es obligatorio usar el estándar ERC-20, es ciertamente ventajoso usarlo como un conjunto de pautas mientras opera en el espacio Ethereum.
+
+Algunas de estas reglas antes mencionadas giran en torno a cómo se pueden transferir los tokens, cómo se aprueban las transacciones, cómo los usuarios pueden acceder a los datos sobre un token y el suministro total de tokens.
+
+Si planeas comprar cualquier moneda digital emitida como un token ERC-20 como Tether, BAND, AAVE, también debes tener una billetera que sea compatible con estos tokens.
+
+Hay muchas opciones diferentes para billeteras como Metamask, MyEtherWallet y otras.
+
+¿Por qué necesitamos tokens ERC-20?
+En resumen, hacen que todo sea más sencillo.
+
+ERC-20 hace que la creación de nuevos tokens sea extremadamente fácil, y es por eso que Ethereum se convirtió en la plataforma más popular para ICO en 2017.
+
+Una ICO, u oferta inicial de monedas, es un tipo de crowdfunding, excepto que los patrocinadores reciben tokens recientemente creados. Es una forma de que las empresas de la economía cripto recauden capital y financien el desarrollo.
+
+El precio de negociación de un ETH a principios de enero de 2017 era de alrededor de USD 8. Dos meses después, esa cifra se había cuadriplicado y luego el resto es historia. El precio de un ETH llegó a un pico de alrededor de USD 1,440 el 13 de enero de 2018, subiendo 18,000 % respecto al año anterior.
+
+Esto se debía a que las ICO estaban obteniendo millones de dólares gracias a las "promesas" incluidas en sus documentos técnicos, y muchas de ellas no tenían un producto que realmente funcionara.
+
+La especulación se estaba convirtiendo en sublimación, y cada proyecto estaba adornado sin importar cuánto tiempo tomaría implementar las características y desarrollos.
+
+Ahora en 2021, Ethereum es la red de referencia detrás de la industria de las finanzas descentralizadas (DeFi) debido a su fortaleza como plataforma para contratos inteligentes.
+
+Antes de los tokens ERC-20, los desarrolladores usaban otra terminología en el código, por ejemplo, un token usa [totalAmount] mientras que otro usa [totalNumber].
+
+Los exchanges y las billeteras necesitaban construir sus plataformas para adaptarse al código de cada token.
+
+Con un estándar universal, los tokens nuevos se pueden colocar en un exchange o transferir a una billetera automáticamente una vez que se han creado.
+
+Los tokens ERC-20 han desempeñado un papel importante en el desarrollo de muchas criptomonedas y tokens accesibles para su uso habitual, dada la simplicidad y la posibilidad de interoperabilidad con otros estándares de tokens de Ethereum.

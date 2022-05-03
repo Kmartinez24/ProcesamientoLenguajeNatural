@@ -1,0 +1,19 @@
+He aquí una forma sencilla de encontrar reglas de clasificación muy simples a partir de un conjunto de instancias.
+Llamado 1R por 1-regla, genera un árbol de decisión de un nivel expresado en forma
+de un conjunto de reglas que ponen a prueba un atributo en particular. 1R es un método sencillo y barato que a menudo da lugar 
+a reglas bastante buenas para caracterizar la estructura de los datos. Resulta que las reglas sencillas alcanzan con frecuencia 
+una precisión sorprendentemente alta. Tal vez sea porque la estructura subyacente a muchos conjuntos de datos del mundo real es 
+bastante rudimentaria, y un solo atributo es suficiente para determinar la clase de una instancia con bastante precisión. En cualquier caso, 
+siempre es un buen plan probar primero las cosas más sencillas.
+
+La idea es la siguiente: hacemos reglas que comprueban un solo atributo y se ramifican en consecuencia. Cada rama corresponde a un valor 
+diferente del atributo. Es obvio cuál es la mejor clasificación que se puede dar a cada rama: 
+utilizar la clase que aparece con más frecuencia en los datos de entrenamiento. De este modo, la tasa de error de las reglas puede 
+determinarse fácilmente. de error de las reglas. Basta con contar los errores que se producen en los datos de entrenamiento, es decir, 
+el número de instancias que no tienen la clase mayoritaria. Cada atributo genera un conjunto diferente de reglas, una regla por cada valor 
+del atributo. Evalúe la tasa de error para el conjunto de reglas de cada atributo y elija la mejor. Es así de sencillo.
+
+El algoritmo 1R es principalmente usado en problemas en los cuales las reglas sean relativamente sencillas de seguir ya que la principal 
+característica es que es un algoritmo bastante simple el cual basa su clasificación en un árbol de decisiones y entre todas evalúa cual tiene 
+la tasa de error mas bajo para así elegirla como la mejor, aunque esta pueda no llegar al 100% de fiabilidad. Es un algoritmo de clasificación 
+porque crea reglas basadas en los conjuntos de datos actuales que ayuda a clasificar los datos futuros. 
